@@ -134,6 +134,7 @@
 * [openHPI](https://open.hpi.de)
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
+* [Roadmap.sh](https://roadmap.sh)
 * [The Odin Project](https://www.theodinproject.com)
 * [Udacity](https://www.udacity.com)
 
@@ -878,7 +879,7 @@
 * [CS50 2019 - iOS Track](https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J) - David J. Malan (Harvard OpenCourseWare)
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Get Started with iOS Development (iOS 13, Swift 5)](https://www.youtube.com/playlist?list=PLSzsOkUDsvdu5Mm67aBYs2YPu2OM4mFzt) - London App Brewery
-* [How to Make an App in 8 Days](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Y5Cluhf7pKRNZtKaA3Q4kg) - CodeWithChris 
+* [How to Make an App in 8 Days](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Y5Cluhf7pKRNZtKaA3Q4kg) - CodeWithChris
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 * [SwiftUI Tutorials](https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z) - Sean Allen
 * [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI) - CodeWithChris
@@ -1097,6 +1098,7 @@
 * [React JS Tutorial - Basic to Advance (2023)](https://www.youtube.com/watch?v=cd3P3yXyx30) - Nerd's lesson
 * [React Patterns for web apps](https://www.patterns.dev/book/) - Lydia Hallie, Addy Osmani
 * [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) - John Smilga (freeCodeCamp)
+* [React State Management Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA) - Jack Herrington (freeCodeCamp)
 * [React State Management using Context API (useContext + useReducer Hooks = Magic)](https://www.youtube.com/watch?v=zxP4oGejqpU) - The Full Stack Junkie
 * [React Testing Library Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ) - The Net Ninja
 * [React Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC) - freeCodeCamp
